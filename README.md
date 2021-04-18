@@ -1,3 +1,3 @@
 # Rosalind-Questions
 Answers of Rosalind problems
-rosalind.info/
+www.rosalind.info/
